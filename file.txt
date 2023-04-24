@@ -1,0 +1,135 @@
+.cardsection{
+    /* width: 0px */
+    margin: 50px 300px;
+    height: 400px
+    
+}
+
+
+.cardsectionfirstdiv{
+    border: 1px solid;
+    width: 900px;
+    margin-right: 30px;
+    
+    
+    /* margin-right: 20px; */
+
+}
+
+.cardsectionseconddiv{
+    border: 1px solid;
+    width: 900px;
+    margin-right: 30px;
+    
+    /* margin-right: 20px; */
+
+}
+
+
+.cardsectionthirddiv{
+    border: 1px solid;
+    width: 900px
+    
+    /* margin-right: 20px; */
+
+}
+
+
+
+
+
+
+
+
+
+
+.cardsectionfirstdiv {
+    text-align: center;
+    align-items: center;
+    /* padding: 25px; */
+
+}
+
+
+/* .cardsection{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 155px;
+    margin: 40px 10rem;
+    padding: 20px;
+} */
+
+
+/* .cardsection{
+    display: flex;
+} */
+
+/* .cardsectionfirstdiv{ */
+    /* width: 505px; */
+    /* margin: 0 10rem; */
+    /* align-items: center; */
+    /* padding: 50px;
+    text-align: center;
+    margin-right: 20px;
+    border: 2px solid; */
+
+/* }
+
+
+
+.cardsectionfirstdiv div{
+    text-align: start;
+} */
+
+/* .cardsectionseconddiv{
+    /* width: 505px; */
+    /* margin: 0 10rem; */
+    /* align-items: center; */
+    /* padding: 50px;
+    margin: 0 20px;
+    text-align: center;
+    border: 2px solid; */
+
+/* } */
+
+/* .cardsectionthirddiv{ */
+    /* width: 505px; */
+    /* margin: 0 10rem; */
+    /* align-items: center; */
+    /* padding: 50px;
+    margin: 0 20px;
+    text-align: center;
+    border: 2px solid;
+
+} */
+
+
+
+.intropara{
+    text-align: start;
+    padding-left: 2.5px;
+    padding-top: 10px;
+}
+
+.namepara{
+    padding: 20px 0;
+}
+
+
+/* _____________________________________________________________ */
+
+
+/* card button  */
+
+
+.liststyleintro{
+    /* text-decoration: none; */
+    list-style: none;
+    display: flex;
+    /* padding: 50px; */
+}
+
+.insidelist{
+    background-color: azure;
+    padding: 8px 8px;
+}

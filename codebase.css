@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    display: flex;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 70px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav{
+    /* text-decoration: none; */
+    padding-right: 70px;
+    /* font-weight: bold; */
+}
+
+a{
+    padding: 15px;
+    text-decoration: none;
+    
+    color: black;
+    /* font-weight: 500; */
+}
+
+.imgclass{
+    padding: 0px 20px;
+}
+
+.lastmenu{
+    background-color: #4E0FE8;
+    /* padding-right: 205px; */
+    color: #fff;
+    /* height: 5px; */
+    padding: 10px;
+    border-radius: 30px;
+    
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+
+}
+
+.leftdiv{
+    font-size: 40px;
+    margin: 70px;
+    padding-right: 50px;
+    
+}
+
+.smallpara{
+    padding-top: 35px;
+    font-size: 16px;
+}
+
+
+
+
+/* on next day date 20 april */
+
+.intosection{
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+
+/* card ka section  */
+.cardsection{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 220px;
+    margin-top: 80px;
+}
+
+.cardsectionfirstdiv{
+    
+    border: #050505 solid 1px;
+    border-radius: 20px;
+    text-align: center;
+    width: 270px;
+    padding: 20px;
+    /* justify-content: center; */
+
+}
+
+
+.namepara{
+    padding-top: 20px;
+    font-weight: 900;
+}
+
+.postpara{
+    padding-top: 10px;
+}
+
+
+.intropara{
+    text-align: left;
+    padding-top: 20px;
+}
+
+.liststyleintro{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 103px;
+    /* padding-top: 500px; */
+    
+}
+
+.liststyleintro2{
+    
+    list-style: none;
+    display: flex;
+}
+
+.listdiv{
+
+    /* justify-content: center; */
+    margin-top: 50px;
+    
+}
+
+
+/* .insidelist{
+    
+    padding: 80px 8px;
+} */
+
+.insidelist{
+    /* background: rgb(14, 255, 255); */
+    /* padding-right: 10px;
+    padding-left: 20px; */
+    background: #0707f3;
+    
+}
+
